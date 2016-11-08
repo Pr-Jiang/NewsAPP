@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NewsAPP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="news_detail_title">详情</string>
+    <string name="smartfish_email_des">My E-mail:jiangruifly@gmail.com</string>
+    <string name="smartfish_email">jiangruifly@gmail.com</string>
+    <string name="send_me">Contact</string>
+    <string name="network_error">网络连接错误</string>
+    <string name="action_save">保存</string>
+    <string name="about_me">\n
+        本科应届毕业生一枚,管理学院,半路出家做了程序员,现在在找工作中~ \n
+        想着才21岁,不能就这么妥协了,或者说不甘心,所以想再努力追逐下自己的梦想~ \n
+        喜欢纯互联网的公司,渴望寻求一个好的技术团队,毕竟一路走来,都是自己一个人在自学 \n
+        所以,非常希望可以在前辈的指导下迅速成长 \n
+        恩~鱼先森要做一个有梦想的人 ~ \n
+        \n\n
+        本项目github地址:https://github.com/Pr-Jiang/NewsAPP \n
+        有喜欢的猿可以进行clone,也欢迎大家一起完善~ \n\n
+        鱼先森的邮箱: jiangruifly@gmail.com  \n
+        鱼先森的微博: -姜小鱼</string>
+</resources>
