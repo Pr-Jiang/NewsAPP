@@ -43,7 +43,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/about_me"
-            android:textSize="16dp"
+            android:typeface="monospace"
+            android:textSize="14dp"
             android:textStyle="normal"/>
     </android.support.v4.widget.NestedScrollView>
 
