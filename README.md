@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/Pr-Jiang/NewsAPP/master/preview/preview_splash.gif)
 
 ###主界面(数据来自天行数据):
-![](https://raw.githubusercontent.com/Pr-Jiang/NewsAPP/master/preview/preview_main.png)
+<img src="https://raw.githubusercontent.com/Pr-Jiang/NewsAPP/master/preview/preview_main.png" width="50%" height="50%">
 
 ###新闻详情界面：
 ![](https://raw.githubusercontent.com/Pr-Jiang/NewsAPP/master/preview/preview_news_detail.png)
