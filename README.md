@@ -10,7 +10,7 @@
 ###新闻详情界面：
 ![](https://raw.githubusercontent.com/Pr-Jiang/NewsAPP/master/preview/preview_news_detail.png)
 
-###图片浏览界面：
+###图片浏览界面(数据接入Gank.io)：
 ![](https://raw.githubusercontent.com/Pr-Jiang/NewsAPP/master/preview/preview_picture.png)
 
 ###大图界面：
