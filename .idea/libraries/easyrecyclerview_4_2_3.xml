@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="easyrecyclerview-4.2.3">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jude/easyrecyclerview/4.2.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jude/easyrecyclerview/4.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jude/easyrecyclerview/4.2.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jude/easyrecyclerview/4.2.3/e08c0b39696a5fc1451fb3d944134fd402eeab02/easyrecyclerview-4.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
