@@ -34,6 +34,7 @@ import rx.Observable;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
+import uk.co.senab.photoview.PhotoViewAttacher;
 
 /**
  * Created by jiangrui on 2016/11/7.
@@ -46,6 +47,7 @@ public class BitmapActivity extends AppCompatActivity {
     Toolbar bitmapToolbar;
     private String bitmapUrl;
     private String bitmapId;
+    private PhotoViewAttacher photoViewAttacher;
 
     Matrix matrix = new Matrix();
     @Override
@@ -90,8 +92,9 @@ public class BitmapActivity extends AppCompatActivity {
                         bitmapImageView.setImageMatrix(matrix);
                     }
                 });
+        photoViewAttacher = new PhotoViewAttacher(bitmapImageView);  //设置图片双击放大和手势缩放
 
-        bitmapImageView.setOnTouchListener(new MulitPointTouchListener());   //设置手势缩放
+//        bitmapImageView.setOnTouchListener(new MulitPointTouchListener());   //设置手势缩放
 //        Log.i("RectF", "viewRectF_1 = " + new RectF(0, 0, bitmapImageView.getWidth(), bitmapImageView.getHeight()));
 //        Log.i("RectF","------------------------------");
     }
